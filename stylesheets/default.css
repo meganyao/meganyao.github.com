@@ -68,4 +68,13 @@ li.linkedin {
     padding: 0 0 0 20px;
 }
 
+span.time_period, span.paper_title {
+    font-style: italic;
+}
+
+span.author {
+    font-weight: bold;
+}
+
+
 
